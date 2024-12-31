@@ -519,12 +519,10 @@ function activateNav() {
 // Document ready
 
 jtd.onReady(function(){
-  if (document.getElementById('site-nav')) {
-    initNav();
-    activateNav();
-    scrollNav();
-  }
+  initNav();
   initSearch();
+  activateNav();
+  scrollNav();
 });
 
 // Copy button on code

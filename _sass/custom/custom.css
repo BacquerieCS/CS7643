@@ -1,0 +1,18 @@
+h2:not(:first-of-type) {
+  margin-top: 4rem;
+}
+
+tr td:first-of-type {
+  min-width: 0;
+  width: 0;
+}
+
+tr:nth-child(2n+1) td {
+  background-color: #f6f6f6;
+}
+
+.label {
+  border-radius: 0.25rem !important;
+}
+
+/*# sourceMappingURL=custom.css.map */

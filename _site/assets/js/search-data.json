@@ -1,0 +1,44 @@
+{"0": {
+    "doc": "1. Linear Classifiers and Gradient Descent",
+    "title": "1. Linear Classifiers and Gradient Descent",
+    "content": " ",
+    "url": "/course_notes/week_1/",
+    
+    "relUrl": "/course_notes/week_1/"
+  },"1": {
+    "doc": "1. Linear Classifiers and Gradient Descent",
+    "title": "Readings",
+    "content": ". | Introduction | Preliminaries | Linear Neural Networks for Regression | Linear Neural Networks for Classification | . ",
+    "url": "/course_notes/week_1/#readings",
+    
+    "relUrl": "/course_notes/week_1/#readings"
+  },"2": {
+    "doc": "1. Linear Classifiers and Gradient Descent",
+    "title": "Notes",
+    "content": "Actual notes. ",
+    "url": "/course_notes/week_1/#notes",
+    
+    "relUrl": "/course_notes/week_1/#notes"
+  },"3": {
+    "doc": "Course Notes",
+    "title": "Course Notes",
+    "content": " ",
+    "url": "/course_notes/",
+    
+    "relUrl": "/course_notes/"
+  },"4": {
+    "doc": "Projects",
+    "title": "Projects",
+    "content": " ",
+    "url": "/projects/",
+    
+    "relUrl": "/projects/"
+  },"5": {
+    "doc": "Assignments",
+    "title": "Assignments",
+    "content": " ",
+    "url": "/assignments/",
+    
+    "relUrl": "/assignments/"
+  }
+}

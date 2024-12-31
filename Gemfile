@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-gem "jekyll"
+gem "jekyll", '~> 4.3.0'
 
-gem 'just-the-docs'
+gem 'just-the-docs', '~> 0.10.0'

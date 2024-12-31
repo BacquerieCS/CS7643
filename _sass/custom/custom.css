@@ -15,4 +15,13 @@ tr:nth-child(2n+1) td {
   border-radius: 0.25rem !important;
 }
 
+.side-bar + .main {
+  margin-left: 30%;
+  max-width: 64rem;
+}
+
+.side-bar {
+  width: 25%;
+}
+
 /*# sourceMappingURL=custom.css.map */

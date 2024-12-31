@@ -1,5 +1,5 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem "jekyll"
+gem "jekyll", "~> 4.3.4"
 
 gem "just-the-docs"

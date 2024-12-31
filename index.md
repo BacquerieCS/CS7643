@@ -1,5 +1,7 @@
 ---
+title: Home
 layout: home
+nav_order: 0
 ---
 
 # CS 7643 Deep Learning

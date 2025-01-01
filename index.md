@@ -16,20 +16,6 @@ descriptions, and some projects I did on my own time to reinforce my learning.
 This schedule reflects my own pace and deadlines, very close to the actual
 ones but not identical.
 
-Coursework activities are classified by a name and a color in order to make
-them more identifiable, and mean the following:
-
-* <span class="label label-green">Activity</span> Relatively short
-  deliverables, like quizzes
-* <span class="label">Assignment</span> Official assignments
-* <span class="label label-purple">Project</span> Self-assigned programming
-  projects for my own learning experience. The only deliverable project is
-  [AI-assisted driving]()
-
-<!--------------------------------------------------------------------------------------->
-<!-------------------------------------- SCHEDULE --------------------------------------->
-<!--------------------------------------------------------------------------------------->
-
 |                                          Week 1 | [Linear classifiers and gradient descent][WEEK 1] |
 |------------------------------------------------:|:--------------------------------------------------|
 | <span class="label label-green">Activity</span> | Quiz 0                                            |
@@ -55,20 +41,20 @@ them more identifiable, and mean the following:
 |-------:|:---------------------------------------|
 |        | No deliverables                        |
 
-|                                Week 6 | [Visualization <br/> Pytorch]()                    |
+|                                Week 6 | [Visualization & Pytorch]()                        |
 |--------------------------------------:|:---------------------------------------------------|
 | <span class="label">Assignment</span> | [Convolutional neural networks from scratch]() due |
 
-|                                          Week 7 | [Advanced vision architectures <br/> Bias and fairness]() |
-|------------------------------------------------:|:----------------------------------------------------------|
-| <span class="label label-green">Activity</span> | Quiz 3                                                    |
-|           <span class="label">Assignment</span> | [Visualization and style transfer]() out                  |
-| <span class="label label-purple">Project</span> | [Object detection]() due                                  |
+|                                          Week 7 | [Advanced vision architectures & Bias and fairness]() |
+|------------------------------------------------:|:------------------------------------------------------|
+| <span class="label label-green">Activity</span> | Quiz 3                                                |
+|           <span class="label">Assignment</span> | [Visualization and style transfer]() out              |
+| <span class="label label-purple">Project</span> | [Object detection]() due                              |
 
-|                                          Week 8 | [Structured representations <br/> Language models]() |
-|------------------------------------------------:|:-----------------------------------------------------|
-|           <span class="label">Assignment</span> | [Visualization and style transfer]() due             |
-| <span class="label label-purple">Project</span> | [Image captioning]() out                             |
+|                                          Week 8 | [Structured representations & Language models]()  |
+|------------------------------------------------:|:--------------------------------------------------|
+|           <span class="label">Assignment</span> | [Visualization and style transfer]() due          |
+| <span class="label label-purple">Project</span> | [Image captioning]() out                          |
 
 |                                Week 9 | [Embeddings]()                     |
 |--------------------------------------:|:-----------------------------------|
@@ -79,11 +65,11 @@ them more identifiable, and mean the following:
 | <span class="label label-green">Activity</span> | Final project presentation  |
 | <span class="label label-purple">Project</span> | [Image captioning]() due    |
 
-|                                         Week 11 | [Neural machine translation <br/> Automated speech recognition]() |
-|------------------------------------------------:|:------------------------------------------------------------------|
-| <span class="label label-green">Activity</span> | Quiz 4                                                            |
-|           <span class="label">Assignment</span> | [Neural machine translation]() due                                |
-| <span class="label label-purple">Project</span> | [AI-assisted driving]() out                                       |
+|                                         Week 11 | [Neural machine translation & Automated speech recognition]() |
+|------------------------------------------------:|:--------------------------------------------------------------|
+| <span class="label label-green">Activity</span> | Quiz 4                                                        |
+|           <span class="label">Assignment</span> | [Neural machine translation]() due                            |
+| <span class="label label-purple">Project</span> | [AI-assisted driving]() out                                   |
 
 | Week 12 | [Deep reinforcement learning]() |
 |--------:|:--------------------------------|
@@ -105,14 +91,14 @@ them more identifiable, and mean the following:
 |------------------------------------------------:|:----------------------------|
 | <span class="label label-purple">Project</span> | [AI-assisted driving]() due |
 
-# Grading
+## Grading
 
-|     Rubric      | Weight |            Actual Grade            |
-|:---------------:|:------:|:----------------------------------:|
-|     Quizzes     |  20%   |                 -                  |
-|   Assignments   |  60%   |                 -                  |
-|  Final Project  |  20%   |                 -                  |
-| **Final Grade** |   0%   | <span class="fs-8"><b>A</b></span> |
+|     Rubric      | Weight | Actual Grade |
+|:---------------:|:------:|:------------:|
+|     Quizzes     |  20%   |      -       |
+|   Assignments   |  60%   |      -       |
+|  Final Project  |  20%   |      -       |
+| **Final Grade** | **0%** |    **A**     |
 
 ## Resources
 

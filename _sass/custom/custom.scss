@@ -1,25 +1,25 @@
 h2:not(:first-of-type) {
-  margin-top: 4rem;
+  margin-top: 5rem;
 }
 
-tr td:first-of-type {
+table {
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 0;
+}
+
+td:first-of-type {
   min-width: 0;
   width: 0;
 }
 
-tr:nth-child(2n+1) td {
-  background-color: #f6f6f6;
+th {
+  background-color: #f5f6fa;
+  font-weight: bolder;
 }
 
 .label {
   border-radius: 0.25rem !important;
-}
-
-.side-bar + .main {
-  margin-left: 30%;
-  max-width: 64rem;
-}
-
-.side-bar {
-  width: 25%;
 }

@@ -11,6 +11,8 @@ This site contains (most of) my study material while taking
 include course notes, readings, exercises, assignment (high-level)
 descriptions, and some projects I did on my own time to reinforce my learning.
 
+**GitHub Repo:** [CS 7643 Deep Learning](https://github.com/BacquerieCS/CS7643)
+
 ## Schedule
 
 This schedule reflects my own pace and deadlines, very close to the actual
